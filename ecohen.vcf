@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Address Book 6.1//EN
+N:Cohen;Eric ;;;
+FN:ERIC N. COHEN & ASSOCIATES PLLC
+ORG:ERIC N. COHEN & ASSOCIATES PLLC;
+EMAIL;type=INTERNET;type=WORK;type=pref:info@ecohenlaw.com
+TEL;type=WORK;type=VOICE;type=pref:212-331-0571
+TEL;type=WORK;type=FAX:646-219-5539
+item1.ADR;type=WORK;type=pref:;;276 Fifth Avenue\, Suite 805;New York;NY;10001;
+item1.X-ABADR:us
+item2.URL;type=pref:http://ecohenlaw.com
+item2.X-ABLabel:_$!<HomePage>!$_
+X-ABShowAs:COMPANY
+CATEGORIES:card
+UID:1a21dca1-c987-402d-ac3a-92faec789795
+X-ABUID:BF68DFA1-AF08-48E3-8110-E96024F539A9:ABPerson
+END:VCARD

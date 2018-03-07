@@ -1,0 +1,186 @@
+@charset "UTF-8";
+body,td,th {
+	font-family: Helvetica, Arial, Geneva, sans-serif;
+}
+body {
+	background-color: #999999;
+}
+#wapper {
+	width: 958px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+	height: auto;
+}
+#header {
+}
+#main {
+	height: auto;
+	width: 958px;
+	background-image: url(images/navi_bg_w.jpg);
+	background-repeat: no-repeat;
+	font-size: 14px;
+	color: #666666;
+}
+#navi {
+	height: 80px;
+	width: 958px;
+	text-align: center;
+}
+#left {
+	float: left;
+	width: 189px;
+	height: auto;
+	margin-left: -5px;
+}
+#middle {
+	float: left;
+	width: 540px;
+	height: auto;
+	color: #666666;
+	font-size: 14px;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+	text-align: left;
+	margin-top: -17px;
+	margin-left: -3px;
+	list-style-image: url(images/dot.png);
+	list-style-position: inside;
+	list-style-type: disc;
+	margin-bottom: 150px;
+}
+ul
+{
+	padding: 0px;
+	margin: 0px;
+	margin-top: 5px;
+	margin-left:18px;
+	list-style-position: outside;
+}
+#right {
+	float: left;
+	width: 178px;
+	height: auto;
+	font-family: "Times New Roman", Times, serif;
+	color: #ff6633;
+	font-size: 15px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-left: 14px;
+	margin-top: 0px;
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #FF9933;
+	margin-left: 20px;
+	padding-bottom: 0px;
+	margin-bottom: 150px;
+}
+#quote {
+	float: left;
+	width: 185px;
+	height: auto;
+	font-size: 15px;
+	vertical-align: -20px;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+	text-align: left;
+	margin-top: -17px;
+	font-family: "Times New Roman", Times, serif;
+	color: #FF6600;
+}
+#footer {
+	background-image: url(images/footer_bg.jpg);
+	background-repeat: repeat-x;
+	height: 24px;
+	width: 958px;
+	text-align: center;
+	top: auto;
+	bottom: auto;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	left: auto;
+	right: auto;
+	padding-top: 4px;
+	clear: both;
+	background-color: #999999;
+}
+#footer a:link {
+	color: #ffffff;
+	text-decoration: none;
+	}
+#footer a:hover {
+	text-decoration: underline;
+	color: #FFffff;
+}
+#footer a:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+#footer a:active {
+	text-decoration: none;
+	color: #ffffff;
+}
+img.top {vertical-align:text-top;}
+
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF6600;
+}
+a:active {
+	text-decoration: none;
+	color: #666666;
+}
+p.maintext {line-height: 150%}
+p 
+{
+margin-top:17px;
+margin-bottom:0px;
+}
+
+#popUpDiv {
+	position:relative;
+	background-color:#ffffff;
+	width:280px;
+	height:250px;
+	z-index: 9002; /*ooveeerrrr nine thoussaaaannnd*/
+	top: -300px;
+	visibility: hidden;
+	color: #666666;
+	font-size: 11px;
+	border: 2px solid #FF9933;
+	box-shadow: -10px 10px 8px #666666;
+	overflow: auto;
+	vertical-align: text-top;
+	padding-top: -15px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	margin: 5px;
+	left: 570px;
+}
+#popUpDiv a:link {
+	color: #666666;
+	text-decoration: none;
+	}
+#popUpDiv a:hover {
+	text-decoration: underline;
+	color: #FF6600;
+}
+#popUpDiv a:visited {
+	text-decoration: none;
+	color: #666666;
+}
+#popUpDiv a:active {
+	text-decoration: none;
+	color: #666666;
+}
