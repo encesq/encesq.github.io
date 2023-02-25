@@ -7,7 +7,7 @@ ORG:ERIC N. COHEN & ASSOCIATES PLLC;
 EMAIL;type=INTERNET;type=WORK;type=pref:info@ecohenlaw.com
 TEL;type=WORK;type=VOICE;type=pref:212-331-0571
 TEL;type=WORK;type=FAX:646-219-5539
-item1.ADR;type=WORK;type=pref:;;276 Fifth Avenue\, Suite 805;New York;NY;10001;
+item1.ADR;type=WORK;type=pref:;;11 Broadway\, Suite 615;New York;NY;10004;
 item1.X-ABADR:us
 item2.URL;type=pref:http://ecohenlaw.com
 item2.X-ABLabel:_$!<HomePage>!$_
